@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="192" viewBox="0 0 2048 192">
+  <rect width="2048" height="192" fill="#0b0f19"/>
+  <rect y="14" width="2048" height="4" fill="#ffffff" fill-opacity=".18"/>
+  <rect y="174" width="2048" height="4" fill="#ffffff" fill-opacity=".18"/>
+  <text x="40" y="118" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="64" fill="#e5e7eb">LOREM</text><circle cx="300" cy="96" r="10" fill="#3c84f6"/><text x="380" y="118" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="64" fill="#e5e7eb">LOREM</text><circle cx="640" cy="96" r="10" fill="#3c84f6"/><text x="720" y="118" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="64" fill="#e5e7eb">LOREM</text><circle cx="980" cy="96" r="10" fill="#3c84f6"/><text x="1060" y="118" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="64" fill="#e5e7eb">LOREM</text><circle cx="1320" cy="96" r="10" fill="#3c84f6"/><text x="1400" y="118" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="64" fill="#e5e7eb">LOREM</text><circle cx="1660" cy="96" r="10" fill="#3c84f6"/><text x="1740" y="118" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="64" fill="#e5e7eb">LOREM</text><circle cx="2000" cy="96" r="10" fill="#3c84f6"/>
+</svg>

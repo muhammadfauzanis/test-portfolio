@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <defs>
+    <linearGradient id="q" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d6283e"/><stop offset="1" stop-color="#5c0d1a"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#q)">
+    <circle cx="450" cy="250" r="135"/>
+    <path d="M70 900 C70 560 220 420 450 420 C680 420 830 560 830 900 Z"/>
+  </g>
+  
+  <g stroke="#11131a" stroke-opacity=".55" stroke-width="3" fill="none">
+    <path d="M450 115 V900"/><path d="M315 250 H585"/><path d="M110 780 L790 780"/><path d="M180 620 L720 620"/>
+    <path d="M330 140 L570 360"/><path d="M570 140 L330 360"/><path d="M130 900 L770 470"/><path d="M770 900 L130 470"/>
+  </g>
+  <text x="450" y="700" font-family="Arial, sans-serif" font-weight="700" font-size="34" fill="#fff" fill-opacity=".85" text-anchor="middle" letter-spacing="6">HOVER PHOTO</text>
+</svg>

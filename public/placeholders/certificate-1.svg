@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="990" viewBox="0 0 1400 990">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e293b"/><stop offset="1" stop-color="#475569"/></linearGradient></defs>
+  <rect width="1400" height="990" fill="url(#g)"/>
+  <g transform="translate(640 415)" fill="none" stroke="#fff" stroke-opacity=".7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="120" height="96" rx="12"/>
+    <circle cx="38" cy="32" r="11"/>
+    <path d="M120 66 L86 34 L14 96"/>
+  </g>
+  <text x="700" y="561" font-family="Arial, sans-serif" font-weight="700" font-size="50" fill="#fff" fill-opacity=".85" text-anchor="middle" letter-spacing="3">CERTIFICATE</text>
+  <text x="700" y="625" font-family="Arial, sans-serif" font-size="35" fill="#fff" fill-opacity=".55" text-anchor="middle">1400 × 990</text>
+</svg>
